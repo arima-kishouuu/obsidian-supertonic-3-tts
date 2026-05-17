@@ -1,0 +1,9 @@
+{
+  "id": "tts-selection",
+  "name": "TTS Selection",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Generate audio for selected text and embed it into the note.",
+  "author": "Perplexity",
+  "isDesktopOnly": true
+}
